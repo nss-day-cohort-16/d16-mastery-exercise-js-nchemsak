@@ -28,7 +28,7 @@ When your work in complete, push up the branch (`git push origin quiz`) and subm
 
 It is absolutely critical that you read each of these requirements because as a professional you will be expected to completely understand what you are expected to do. If you submit code that does not fulfill the requirements, you will be sent to your room with no dinner.
 
-Create a `tree` function that should build a pine tree out of a character in the Chrome dev tools console. 
+Create a `tree` function that should build a pine tree out of a character in the Chrome dev tools console.
 
 ### It accepts a single object as an argument. The object should have two key/value pairs.
 
@@ -41,14 +41,6 @@ Once the user enters in a number, and a character, the user can either then just
 
 If either of the input fields does not have a value in it when the user presses the enter key, or presses the button, then display an alert stating that both fields must have a value.
 
-<div>
-    <input type="text" style="width: 40%" placeholder="How tall should the tree be?">
-</div>
-<div>
-    <input type="text" style="width: 40%" placeholder="Which character should be used?">
-</div>
-
-<button>Grow your tree</button>
 
 ##### Example
 
